@@ -439,3 +439,8 @@ a.pagination-item:hover {
   margin-top: 1rem;
   margin-bottom: 2rem;
 }
+
+.project img {
+  border: 1px solid rgba(0,0,0,.1);
+  border-radius: .25rem;
+}
