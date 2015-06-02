@@ -1,0 +1,15 @@
+---
+layout: page
+title: Projects
+---
+
+<div class="projects">
+  {% for project in site.projects %}
+  <div class="post project">
+    <h2>{{project.title}}</h2>
+
+    {{ project.content }}
+  </div>
+  {% endfor %}
+</div>
+
