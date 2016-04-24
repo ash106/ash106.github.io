@@ -10,8 +10,8 @@ title:            Alex Howington
 tagline:          'Web Developer'
 description:      'Web developer with an affinity for maps and data visualization.'
 old_description:  '<a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              http://alexhowington.com
+baseurl:          ''
 
 author:
   name:           'Alex Howington'
