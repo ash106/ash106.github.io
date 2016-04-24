@@ -24,10 +24,10 @@ GEM
     fast-stemmer (1.0.2)
     ffi (1.9.10)
     gemoji (2.1.0)
-    github-pages (73)
+    github-pages (71)
       RedCloth (= 4.2.9)
       github-pages-health-check (= 1.1.0)
-      jekyll (= 3.0.4)
+      jekyll (= 3.0.3)
       jekyll-coffeescript (= 1.0.1)
       jekyll-feed (= 0.5.1)
       jekyll-gist (= 1.4.0)
@@ -57,7 +57,7 @@ GEM
       activesupport (>= 2, < 5)
       nokogiri (>= 1.4)
     i18n (0.7.0)
-    jekyll (3.0.4)
+    jekyll (3.0.3)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
@@ -92,7 +92,7 @@ GEM
       gemoji (~> 2.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0)
-    json (1.8.2)
+    json (1.8.3)
     kramdown (1.10.0)
     liquid (3.0.6)
     listen (3.1.1)
@@ -136,7 +136,7 @@ PLATFORMS
 
 DEPENDENCIES
   classifier-reborn
-  github-pages (= 73)
+  github-pages (= 71)
   jekyll-gist
   jekyll-paginate
   json
