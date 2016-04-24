@@ -134,4 +134,5 @@ DEPENDENCIES
   github-pages (= 71)
   jekyll-gist
   jekyll-paginate
+  jekyll-sitemap
   json

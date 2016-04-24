@@ -28,4 +28,4 @@ github:
 collections:
 - projects
 
-gems: [jekyll-gist, jekyll-paginate]
+gems: [jekyll-gist, jekyll-paginate, jekyll-sitemap]
