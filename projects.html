@@ -7,7 +7,7 @@ title: Projects
   {% assign projects = site.projects | sort: 'order' %}
   {% for project in projects %}
   <div class="post project">
-    <h2>{{project.title}}</h2>
+    <h2 class="project-title">{{project.title}}</h2>
 
     {{ project.content }}
   </div>
