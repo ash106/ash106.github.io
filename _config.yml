@@ -21,8 +21,7 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/ash106/ash106.github.io
+github:           https://github.com/ash106
 resume:           https://represent.io/alexhowington
 
 collections:
