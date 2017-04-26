@@ -1,6 +1,6 @@
 ---
 title: Rich Cat/Poor Cat
-order: -2
+order: -5
 ---
 
 [![Rich Cat/Poor Cat](/assets/rich_cat_poor_cat.gif)](http://richpoorcat.com/)

@@ -1,6 +1,6 @@
 ---
 title: Bill Hicks Quotes
-order: -5
+order: -2
 ---
 
 [![Bill Hicks Quotes](/assets/bill_hicks_quotes.png)](https://chrome.google.com/webstore/detail/bill-hicks-quotes/gljobjgjdhmficpapgmobajjdjaflbcj)

@@ -1,6 +1,6 @@
 ---
 title: Tic Tac Toe
-order: -7
+order: -6
 ---
 
 [![Tic Tac Toe](/assets/react_action_cable_tic_tac_toe.gif)](https://sheltered-caverns-30642.herokuapp.com/)

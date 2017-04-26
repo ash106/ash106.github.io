@@ -1,6 +1,6 @@
 ---
 title: Drone Map
-order: -4
+order: -1
 ---
 
 [![Drone Map](/assets/drone_map.png)](http://dronemap.herokuapp.com/)
