@@ -7,6 +7,6 @@ order: -5
 
 [Demo](http://richpoorcat.com/) / [GitHub](https://github.com/ash106/rich_cat_poor_cat)
 
-Built with Rails, Bootstrap and [Pixi.js](http://www.pixijs.com/)
+Built with Rails, Materialize and `<canvas>`
 
 A game about the rising income inequality between cats. Just kidding, it's a way to look at cat pictures disguised as a game! 
