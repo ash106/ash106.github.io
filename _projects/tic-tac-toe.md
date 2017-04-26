@@ -7,7 +7,7 @@ order: -6
 
 [Demo](https://sheltered-caverns-30642.herokuapp.com/) / [GitHub](https://github.com/ash106/tic-tac-toe)
 
-Built with React, Rails, Bootstrap and [D3.js](https://d3js.org/).
+Built with React, Rails, Bootstrap and [D3.js](https://d3js.org/)
 
 I improved and expanded on [this](https://facebook.github.io/react/tutorial/tutorial.html) basic tic tac toe code:
 
