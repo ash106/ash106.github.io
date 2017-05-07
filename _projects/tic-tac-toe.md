@@ -3,7 +3,7 @@ title: Tic Tac Toe
 order: -6
 ---
 
-[![Tic Tac Toe](/assets/react_action_cable_tic_tac_toe.gif)](https://sheltered-caverns-30642.herokuapp.com/)
+[![Tic Tac Toe](/assets/react_tic_tac_toe.gif)](https://sheltered-caverns-30642.herokuapp.com/)
 
 [Demo](https://sheltered-caverns-30642.herokuapp.com/) / [GitHub](https://github.com/ash106/tic-tac-toe)
 
